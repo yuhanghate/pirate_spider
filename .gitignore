@@ -1,0 +1,35 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+/.vagrant
+/scrapy.iml
+*.pyc
+_trial_temp*
+dropin.cache
+docs/build
+*egg-info
+.tox
+venv
+build
+dist
+.idea
+htmlcov/
+.coverage
+.pytest_cache/
+.coverage.*
+.cache/
+
+# Windows
+Thumbs.db
